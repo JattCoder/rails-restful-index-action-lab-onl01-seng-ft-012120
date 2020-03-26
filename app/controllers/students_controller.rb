@@ -1,3 +1,3 @@
-class Students < ActionController::Base
+class StudentsController < ActionController::Base
   
 end
